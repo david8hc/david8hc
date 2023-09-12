@@ -1,6 +1,8 @@
+# Hello Folks 👋, I'm David
+### 🎓 I am currently a PhD student researching on Local Positioning Systems. 
+
 [![Git](https://img.shields.io/badge/Git-2.37+-f14e32?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-Web-blue?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/)
-### Hi there 👋
 
 <!--
 **david8hc/david8hc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
